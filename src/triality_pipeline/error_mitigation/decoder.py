@@ -1,1 +1,118 @@
-IiIiVW5pZmllZCBUcmlhbGl0eSBQaXBlbGluZSAoVVRQKSAtIEVycm9yIE1pdGlnYXRpb24gTGF5ZXIgTW9kdWxlOiBNaW5pbXVtCldlaWdodCBQZXJmZWN0IE1hdGNoaW5nIChNV1BNKSBTeW5kcm9tZSBEZWNvZGVyIExvb3AKUmVmZXJlbmNlOiBVVFAtU1BFQy0yMDI2LVY2LjAgKFNlY3Rpb24gNC4yICYgMTMpCgpUaGlzIG1vZHVsZSBoYW5kbGVzIHRoZSBhY3RpdmUgc3luZHJvbWUgZGVjb2RpbmcgcHJvY2Vzc2luZyBsb29wLiBJdCBpbmdlc3RzCmJpbmFyeSBzeW5kcm9tZSB2ZWN0b3IgYXJyYXlzIGdlbmVyYXRlZCBieSB0aGUgcm90YXRlZCBzdXJmYWNlIGNvZGUgbGF0dGljZQpzdGFiaWxpemVycywgaXNvbGF0ZXMgbWF0Y2hpbmcgcGFpcnMgdXNpbmcgYSBtaW5pbXVtLXdlaWdodCBwYXRoIG1hdHJpeCBzb2x2ZXIsCmFuZCByZXR1cm5zIHRoZSB0YXJnZXRlZCByZXN0b3JhdGl2ZSBQYXVsaSBjb3JyZWN0aW9uIGluc3RydWN0aW9ucyBuZWVkZWQgdG8Kc2hpZWxkIHRoZSBuZXR3b3JrLgoKTk9URSAoYnVpbGQpOiB0aGUgcm91dGluZSBiZWxvdyBpcyBhIHNoYXJlZC1zdGFiaWxpemVyIGludGVyc2VjdGlvbiBoZXVyaXN0aWMsCm5vdCBhIHRydWUgbWluaW11bS13ZWlnaHQgcGVyZmVjdCBtYXRjaGluZyBzb2x2ZS4gTmFtZSBhbmQgZG9jc3RyaW5nIGtlcHQKdmVyYmF0aW0gZnJvbSB0aGUgbWFuaWZlc3Qgc291cmNlLgoiIiIKaW1wb3J0IG51bXB5IGFzIG5wCmZyb20gdHlwaW5nIGltcG9ydCBEaWN0LCBMaXN0LCBUdXBsZQoKCmNsYXNzIE1pbmltdW1XZWlnaHRQZXJmZWN0TWF0Y2hpbmdEZWNvZGVyOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGxhdHRpY2VfZGlzdGFuY2U6IGludCA9IDMpOgogICAgICAgICIiIkluaXRpYWxpemVzIHRoZSBNV1BNIGFjdGl2ZSBkZWNvZGVyIGxvb3AgbW9kdWxlLiIiIgogICAgICAgIHNlbGYuZCA9IGxhdHRpY2VfZGlzdGFuY2UKICAgICAgICBzZWxmLm51bV9zdGFiaWxpemVycyA9IDQKICAgICAgICBzZWxmLnN5bmRyb21lX3RvX3F1Yml0X21hcDogRGljdFtzdHIsIERpY3RbaW50LCBUdXBsZVtpbnQsIC4uLl1dXSA9IHsKICAgICAgICAgICAgIloiOiB7CiAgICAgICAgICAgICAgICAwOiAoMCwgMSwgMywgNCksICAjIFoxIC0+IEQxLCBEMiwgRDQsIEQ1CiAgICAgICAgICAgICAgICAxOiAoMSwgMiwgNCwgNSksICAjIFoyIC0+IEQyLCBEMywgRDUsIEQ2CiAgICAgICAgICAgICAgICAyOiAoMywgNCwgNiwgNyksICAjIFozIC0+IEQ0LCBENSwgRDcsIEQ4CiAgICAgICAgICAgICAgICAzOiAoNCwgNSwgNywgOCksICAjIFo0IC0+IEQ1LCBENiwgRDgsIEQ5CiAgICAgICAgICAgIH0sCiAgICAgICAgICAgICJYIjogewogICAgICAgICAgICAgICAgMDogKDAsIDMsIDEsIDQpLCAgIyBYMSBtYXBwaW5nIGFycmF5cwogICAgICAgICAgICAgICAgMTogKDEsIDQsIDIsIDUpLCAgIyBYMiBtYXBwaW5nIGFycmF5cwogICAgICAgICAgICAgICAgMjogKDMsIDYsIDQsIDcpLCAgIyBYMyBtYXBwaW5nIGFycmF5cwogICAgICAgICAgICAgICAgMzogKDQsIDcsIDUsIDgpLCAgIyBYNCBtYXBwaW5nIGFycmF5cwogICAgICAgICAgICB9LAogICAgICAgIH0KCiAgICBkZWYgZGVjb2RlX3N5bmRyb21lX3ZlY3RvcnMoc2VsZiwgel9zeW5kcm9tZXM6IExpc3RbaW50XSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB4X3N5bmRyb21lczogTGlzdFtpbnRdKSAtPiBEaWN0W3N0ciwgTGlzdFtpbnRdXToKICAgICAgICAiIiJJbmdlc3RzIHJhdyBiaW5hcnkgZXJyb3IgdmVjdG9ycywgaXNvbGF0ZXMgbWF0Y2hpbmcgZXJyb3IgcGFpcnMsIGFuZAogICAgICAgIHByb2Nlc3NlcyB0aGUgbWluaW11bSBncmFwaCB3ZWlnaHQgY2FsY3VsYXRpb25zIHRvIGRldGVybWluZSByZXF1aXJlZAogICAgICAgIHJlc3RvcmF0aXZlIGFjdGlvbnMuIiIiCiAgICAgICAgY29ycmVjdGlvbnNfdG9fYXBwbHkgPSB7ImFwcGx5X3hfcmVzdG9yZSI6IFtdLCAiYXBwbHlfel9yZXN0b3JlIjogW119CiAgICAgICAgIyBTdGVwIEE6IERlY29kZSBQaGFzZS1Ob2lzZSAvIFBoYXNlLUZsaXBzIChYLVN5bmRyb21lcyB0cmlnZ2VyaW5nKQogICAgICAgIGFjdGl2ZV94X2ZhdWx0cyA9IFtpZHggZm9yIGlkeCwgdmFsIGluIGVudW1lcmF0ZSh4X3N5bmRyb21lcykgaWYgdmFsID09IDFdCiAgICAgICAgaWYgbGVuKGFjdGl2ZV94X2ZhdWx0cykgPiAwOgogICAgICAgICAgICBpZiBsZW4oYWN0aXZlX3hfZmF1bHRzKSA9PSAxOgogICAgICAgICAgICAgICAgdGFyZ2V0X3F1Yml0ID0gc2VsZi5zeW5kcm9tZV90b19xdWJpdF9tYXBbIlgiXVthY3RpdmVfeF9mYXVsdHNbMF1dWzBdCiAgICAgICAgICAgICAgICBjb3JyZWN0aW9uc190b19hcHBseVsiYXBwbHlfel9yZXN0b3JlIl0uYXBwZW5kKHRhcmdldF9xdWJpdCkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHNoYXJlZF9ub2RlcyA9IHNldChzZWxmLnN5bmRyb21lX3RvX3F1Yml0X21hcFsiWCJdW2FjdGl2ZV94X2ZhdWx0c1swXV0pCiAgICAgICAgICAgICAgICBmb3IgZmF1bHRfaWR4IGluIGFjdGl2ZV94X2ZhdWx0c1sxOl06CiAgICAgICAgICAgICAgICAgICAgc2hhcmVkX25vZGVzLmludGVyc2VjdGlvbl91cGRhdGUoc2VsZi5zeW5kcm9tZV90b19xdWJpdF9tYXBbIlgiXVtmYXVsdF9pZHhdKQogICAgICAgICAgICAgICAgaWYgc2hhcmVkX25vZGVzOgogICAgICAgICAgICAgICAgICAgIGNvcnJlY3Rpb25zX3RvX2FwcGx5WyJhcHBseV96X3Jlc3RvcmUiXS5leHRlbmQobGlzdChzaGFyZWRfbm9kZXMpKQogICAgICAgICMgU3RlcCBCOiBEZWNvZGUgQml0LUZsaXBzIChaLVN5bmRyb21lcyB0cmlnZ2VyaW5nKQogICAgICAgIGFjdGl2ZV96X2ZhdWx0cyA9IFtpZHggZm9yIGlkeCwgdmFsIGluIGVudW1lcmF0ZSh6X3N5bmRyb21lcykgaWYgdmFsID09IDFdCiAgICAgICAgaWYgbGVuKGFjdGl2ZV96X2ZhdWx0cykgPiAwOgogICAgICAgICAgICBpZiBsZW4oYWN0aXZlX3pfZmF1bHRzKSA9PSAxOgogICAgICAgICAgICAgICAgdGFyZ2V0X3F1Yml0ID0gc2VsZi5zeW5kcm9tZV90b19xdWJpdF9tYXBbIloiXVthY3RpdmVfel9mYXVsdHNbMF1dWzBdCiAgICAgICAgICAgICAgICBjb3JyZWN0aW9uc190b19hcHBseVsiYXBwbHlfeF9yZXN0b3JlIl0uYXBwZW5kKHRhcmdldF9xdWJpdCkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHNoYXJlZF9ub2RlcyA9IHNldChzZWxmLnN5bmRyb21lX3RvX3F1Yml0X21hcFsiWiJdW2FjdGl2ZV96X2ZhdWx0c1swXV0pCiAgICAgICAgICAgICAgICBmb3IgZmF1bHRfaWR4IGluIGFjdGl2ZV96X2ZhdWx0c1sxOl06CiAgICAgICAgICAgICAgICAgICAgc2hhcmVkX25vZGVzLmludGVyc2VjdGlvbl91cGRhdGUoc2VsZi5zeW5kcm9tZV90b19xdWJpdF9tYXBbIloiXVtmYXVsdF9pZHhdKQogICAgICAgICAgICAgICAgaWYgc2hhcmVkX25vZGVzOgogICAgICAgICAgICAgICAgICAgIGNvcnJlY3Rpb25zX3RvX2FwcGx5WyJhcHBseV94X3Jlc3RvcmUiXS5leHRlbmQobGlzdChzaGFyZWRfbm9kZXMpKQogICAgICAgIHJldHVybiBjb3JyZWN0aW9uc190b19hcHBseQoKICAgIGRlZiBwcm9jZXNzX2Nsb3NlZF9sb29wX3N0YWJpbGl6YXRpb24oc2VsZiwgc2ltdWxhdGVkX3pfc3luZHJvbWU6IExpc3RbaW50XSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2ltdWxhdGVkX3hfc3luZHJvbWU6IExpc3RbaW50XSkgLT4gYm9vbDoKICAgICAgICByZXN0b3JhdGlvbl9wbGFuID0gc2VsZi5kZWNvZGVfc3luZHJvbWVfdmVjdG9ycyhzaW11bGF0ZWRfel9zeW5kcm9tZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2ltdWxhdGVkX3hfc3luZHJvbWUpCiAgICAgICAgcmV0dXJuIGJvb2wobGVuKHJlc3RvcmF0aW9uX3BsYW5bImFwcGx5X3hfcmVzdG9yZSJdKSA+IDAgb3IKICAgICAgICAgICAgICAgICAgICBsZW4ocmVzdG9yYXRpb25fcGxhblsiYXBwbHlfel9yZXN0b3JlIl0pID4gMCkKCgojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiMgT3BlcmF0aW9uYWwgVmVyaWZpY2F0aW9uIFJvdXRpbmUKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgcHJpbnQoIj0iICogODApCiAgICBwcmludCgiVVRQIERFQ09ERVIgTU9EVUxFOiBJTklUSUFMSVpJTkcgQUNUSVZFIE1JTklNVU0gV0VJR0hUIFBFUkZFQ1QgTUFUQ0hJTkcgTE9PUCIpCiAgICBwcmludCgiPSIgKiA4MCkKICAgIGRlY29kZXIgPSBNaW5pbXVtV2VpZ2h0UGVyZmVjdE1hdGNoaW5nRGVjb2RlcihsYXR0aWNlX2Rpc3RhbmNlPTMpCiAgICBtb2NrX3pfdmVjdG9yID0gWzAsIDAsIDAsIDBdCiAgICBtb2NrX3hfdmVjdG9yID0gWzEsIDEsIDAsIDBdCiAgICBwcmludChmIkluY29taW5nIFRlc3QgSW5wdXQgWi1TeW5kcm9tZSBBcnJheSA6IHttb2NrX3pfdmVjdG9yfSIpCiAgICBwcmludChmIkluY29taW5nIFRlc3QgSW5wdXQgWC1TeW5kcm9tZSBBcnJheSA6IHttb2NrX3hfdmVjdG9yfSIpCiAgICBwcmludCgiLSIgKiA4MCkKICAgIGNvcnJlY3Rpb25fcGxhbiA9IGRlY29kZXIuZGVjb2RlX3N5bmRyb21lX3ZlY3RvcnMobW9ja196X3ZlY3RvciwgbW9ja194X3ZlY3RvcikKICAgIHByaW50KCJNV1BNIENhbGN1bGF0ZWQgUmVzb2x1dGlvbiBQcm9maWxlOiIpCiAgICBwcmludChmIiAgVGFyZ2V0ZWQgUGF1bGkgWCBSZWNvdmVyeSBHYXRlIE5vZGVzIDoge2NvcnJlY3Rpb25fcGxhblsnYXBwbHlfeF9yZXN0b3JlJ119IikKICAgIHByaW50KGYiICBUYXJnZXRlZCBQYXVsaSBaIFJlY292ZXJ5IEdhdGUgTm9kZXMgOiB7Y29ycmVjdGlvbl9wbGFuWydhcHBseV96X3Jlc3RvcmUnXX0iKQogICAgcHJpbnQoIi0iICogODApCiAgICBpc19vcGVyYXRpb25hbCA9IGRlY29kZXIucHJvY2Vzc19jbG9zZWRfbG9vcF9zdGFiaWxpemF0aW9uKG1vY2tfel92ZWN0b3IsIG1vY2tfeF92ZWN0b3IpCiAgICBwcmludChmIkRlY29kZXIgQ2xvc2UtTG9vcCBEaWFnbm9zdGljIFZlcmlmaWNhdGlvbiBGbGFnOiB7aXNfb3BlcmF0aW9uYWx9IikKICAgIHByaW50KCI9IiAqIDgwKQogICAgYXNzZXJ0IGlzX29wZXJhdGlvbmFsLCAiRGVjb2RlciBDb3JlIEZhaWx1cmU6IE1XUE0gbG9vcCBmYWlsZWQgdG8gbWFwIGRpc3RpbmN0IHRhcmdldHMuIgogICAgcHJpbnQoIlNUQVRVUyBDSEVDSzogQWN0aXZlIE1XUE0gZXJyb3IgZGVjb2RpbmcgYXJjaGl0ZWN0dXJlIGxvb3AgY29tcGlsZWQgd2l0aCBOTyBFUlJPUlMuIikKICAgIHByaW50KCI9IiAqIDgwKQo=
+"""Unified Triality Pipeline (UTP) - Error Mitigation Layer Module: Minimum
+Weight Perfect Matching (MWPM) Syndrome Decoder Loop
+Reference: UTP-SPEC-2026-V6.0 (Section 4.2 & 13)
+
+This module handles the active syndrome decoding processing loop. It ingests
+binary syndrome vector arrays generated by the rotated surface code lattice
+stabilizers and returns the targeted restorative Pauli correction instructions
+needed to shield the network.
+
+[UPGRADED 2026-10-05] The previous revision used a shared-stabilizer
+intersection heuristic (mislabeled MWPM). It is replaced by an exact
+single-error table-lookup decoder built from this package's own stabilizer
+geometry (RotatedSurfaceCodeLattice: vertex Z1..Z4, plaquette X1..X4).
+Verified: every one of the 9 data qubits has a unique non-zero syndrome
+under each stabilizer type, so for single-qubit errors the table lookup IS
+the minimum-weight perfect matching solution. Multi-error syndromes absent
+from the table return no correction (the fault is counted downstream, not
+hidden). Public interface unchanged: class name, constructor signature,
+decode_syndrome_vectors(), and process_closed_loop_stabilization() keep
+their names, arguments, and return shapes.
+"""
+import numpy as np
+from typing import Dict, List, Tuple
+
+
+class MinimumWeightPerfectMatchingDecoder:
+    # Stabilizer geometry mirrors RotatedSurfaceCodeLattice in
+    # triality_pipeline/error_mitigation/stabilizers.py.
+    # Z-type (vertex) stabilizers detect X errors (bit-flips).
+    VERTEX_STABILIZERS: Dict[str, Tuple[int, ...]] = {
+        "Z1": (0, 1, 3, 4),
+        "Z2": (1, 2, 4, 5),
+        "Z3": (3, 4, 6, 7),
+        "Z4": (4, 5, 7, 8),
+    }
+    # X-type (plaquette) stabilizers detect Z errors (phase-flips).
+    PLAQUETTE_STABILIZERS: Dict[str, Tuple[int, ...]] = {
+        "X1": (0, 3, 1, 4),
+        "X2": (1, 4, 2, 5),
+        "X3": (3, 6, 4, 7),
+        "X4": (4, 7, 5, 8),
+    }
+
+    def __init__(self, lattice_distance: int = 3):
+        """Initializes the MWPM active decoder loop module."""
+        self.d = lattice_distance
+        self.num_stabilizers = 4
+        self._z_names = list(self.VERTEX_STABILIZERS.keys())
+        self._x_names = list(self.PLAQUETTE_STABILIZERS.keys())
+        # Exact MWPM for single-qubit errors: syndrome -> qubit.
+        self._x_table = self._build_correction_table(self.VERTEX_STABILIZERS,
+                                                     self._z_names)
+        self._z_table = self._build_correction_table(
+            self.PLAQUETTE_STABILIZERS, self._x_names)
+
+    @staticmethod
+    def _build_correction_table(stabilizers: Dict[str, Tuple[int, ...]],
+                                names: List[str]) -> Dict[Tuple[int, ...], int]:
+        table: Dict[Tuple[int, ...], int] = {(0,) * len(names): -1}
+        for q in range(9):
+            syn = tuple(1 if q in stabilizers[nm] else 0 for nm in names)
+            # Unique single-error syndromes verified 2026-10-05; setdefault
+            # keeps the first (lowest-index) qubit on any future collision.
+            table.setdefault(syn, q)
+        return table
+
+    def _lookup(self, syndromes: List[int],
+                table: Dict[Tuple[int, ...], int]) -> List[int]:
+        key = tuple(int(v) for v in syndromes)
+        qubit = table.get(key, -1)
+        return [qubit] if qubit >= 0 else []
+
+    def decode_syndrome_vectors(self, z_syndromes: List[int],
+                                x_syndromes: List[int]) -> Dict[str, List[int]]:
+        """Ingests raw binary syndrome vectors and returns the exact
+        minimum-weight restorative corrections.
+
+        z_syndromes: vertex (Z-type) syndromes -> X-error corrections.
+        x_syndromes: plaquette (X-type) syndromes -> Z-error corrections.
+        """
+        corrections_to_apply = {"apply_x_restore": self._lookup(z_syndromes,
+                                                                self._x_table),
+                                "apply_z_restore": self._lookup(x_syndromes,
+                                                                self._z_table)}
+        return corrections_to_apply
+
+    def process_closed_loop_stabilization(self, simulated_z_syndrome: List[int],
+                                          simulated_x_syndrome: List[int]) -> bool:
+        restoration_plan = self.decode_syndrome_vectors(simulated_z_syndrome,
+                                                         simulated_x_syndrome)
+        return bool(len(restoration_plan["apply_x_restore"]) > 0 or
+                    len(restoration_plan["apply_z_restore"]) > 0)
+
+
+# ================================
+# Operational Verification Routine
+# ================================
+if __name__ == "__main__":
+    print("=" * 80)
+    print("UTP DECODER MODULE: INITIALIZING ACTIVE MINIMUM WEIGHT PERFECT MATCHING LOOP")
+    print("=" * 80)
+    decoder = MinimumWeightPerfectMatchingDecoder(lattice_distance=3)
+    mock_z_vector = [0, 0, 0, 0]
+    mock_x_vector = [1, 1, 0, 0]
+    print(f"Incoming Test Input Z-Syndrome Array : {mock_z_vector}")
+    print(f"Incoming Test Input X-Syndrome Array : {mock_x_vector}")
+    print("-" * 80)
+    correction_plan = decoder.decode_syndrome_vectors(mock_z_vector, mock_x_vector)
+    print("MWPM Calculated Resolution Profile:")
+    print(f"  Targeted Pauli X Recovery Gate Nodes : {correction_plan['apply_x_restore']}")
+    print(f"  Targeted Pauli Z Recovery Gate Nodes : {correction_plan['apply_z_restore']}")
+    print("-" * 80)
+    is_operational = decoder.process_closed_loop_stabilization(mock_z_vector, mock_x_vector)
+    print(f"Decoder Close-Loop Diagnostic Verification Flag: {is_operational}")
+    print("=" * 80)
+    assert is_operational, "Decoder Core Failure: MWPM loop failed to map distinct targets."
+    print("STATUS CHECK: Active MWPM error decoding architecture loop compiled with NO ERRORS.")
+    print("=" * 80)
