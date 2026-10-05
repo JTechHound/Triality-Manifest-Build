@@ -1,1 +1,67 @@
-IyEvdXNyL2Jpbi9lbnYgYmFzaAojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KIyBTWVNURU0gU1BFQ0lGSUNBVElPTjogQ09IRVJFTkNFIENPTExBUFNFIC8gVU5JRklFRCBUUklBTElUWSBQSVBFTElORQojIEFVVE9NQVRFRCBOSUdIVExZIExJRkVDWUNMRSBSRUNPVkVSWSBMQVlFUjogY3Jvbl9hcmNoaXZlLnNoCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQojIENST05UQUIgUkVHSVNUUkFUSU9OIFBST1RPQ09MOgojIE9wZW4gdGVybWluYWwsIGV4ZWN1dGU6IGNyb250YWIgLWUKIyBQcmUtcGVuZCB0aGUgZm9sbG93aW5nIGV4cGxpY2l0IGV4ZWN1dGlvbiB2ZWN0b3Igc3RyaW5nOgojIDAgMiAqICogKiAvYmluL2Jhc2ggL2Fic29sdXRlL3BhdGgvdG8veW91ci9yZXBvc2l0b3J5L2Nyb25fYXJjaGl2ZS5zaCA+PiAvYWJzb2x1dGUvcGF0aC90by95b3VyL3JlcG9zaXRvcnkvY3Jvbl9jcm9uLmxvZyAyPiYxCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQojCiMgTk9URSAoTG90dXMsIDIwMjYtMTAtMDMpOiB0aGlzIHNjcmlwdCdzIFB5dGhvbiBzdGVwcyBpbXBvcnQKIyBgRGF0YU1hbmFnZW1lbnRQbGFuQXJjaGl2ZUVuZ2luZWAgYW5kIGBDbG91ZEFyY2hpdmVTdG9yYWdlTWFuYWdlcmAKIyBmcm9tIGBwaXBlbGluZV91bmlmaWVkYC4gVGhvc2UgY2xhc3NlcyBleGlzdCBpbiBORUlUSEVSIHRoaXMgcmVwbydzCiMgYHRyaWFsaXR5X3BpcGVsaW5lYCBwYWNrYWdlIE5PUiB0aGUgdXRwLXY1IGJyYW5jaCdzIHBpcGVsaW5lX3VuaWZpZWQucHkKIyAodmVyaWZpZWQgYnkgZ3JlcCkuIFVudGlsIHRob3NlIGVuZ2luZXMgYXJlIHdyaXR0ZW4sIHN0ZXBzIDMtNCBmYWlsIHdpdGgKIyBJbXBvcnRFcnJvci4gU3RlcHMgMS0yICh2ZW52IGdhdGUsIGhvdC10aWVyIGlkbGUgZ2F0ZSkgcnVuIGZpbmUgc3RhbmRhbG9uZS4KIyBLZXB0IHZlcmJhdGltIG90aGVyd2lzZS4Kc2V0IC1lCgojIEVzdGFibGlzaCBsb2NhbCBzdG9yYWdlIGRpcmVjdG9yeSBlbnZpcm9ubWVudHMKIyBbUkVQQUlSRURdIGxpbmUtYnJlYWsgam9pbnMgYWNyb3NzIHRoZSBQREYgcGFnZSBib3VuZGFyeTsgQkFTSF9TT1VSQ0VbMF0gaXMKIyB0aGUgc3RhbmRhcmQgaWRpb20gKGJhcmUgJHtCQVNIX1NPVVJDRX0gaXMgZXF1aXZhbGVudCBpbiBiYXNoKS4KUkVQT19ESVI9IiQoY2QgIiQoZGlybmFtZSAiJHtCQVNIX1NPVVJDRVswXX0iKSIgJiYgcHdkKSIKSE9UX0RJUj0iJFJFUE9fRElSL2hvdF90aWVyIgpXQVJNX0RJUj0iJFJFUE9fRElSL3dhcm1fZGlyIgpWRU5WX0FDVElWQVRFPSIkUkVQT19ESVIvLnZlbnYvYmluL2FjdGl2YXRlIgoKZWNobyAiPT09IFNUQVJUSU5HIE5JR0hUTFkgREFUQSBMSUZFQ1lDTEUgU1dFRVA6ICQoZGF0ZSAtdSkgPT09IgoKIyAxLiBWZXJpZnkgVmlydHVhbCBFbnZpcm9ubWVudCBJbml0aWFsaXphdGlvbgppZiBbICEgLWYgIiRWRU5WX0FDVElWQVRFIiBdOyB0aGVuCiAgICBlY2hvICJbQ1JJVElDQUwgRkFVTFRdIEhlcm1ldGljIGVudmlyb25tZW50IG1pc3NpbmcuIEV4ZWN1dGUgZGVwbG95LnNoIGZpcnN0LiIKICAgIGV4aXQgMQpmaQpzb3VyY2UgIiRWRU5WX0FDVElWQVRFIgoKIyAyLiBDaGVjayBmb3IgbmV3bHkgZ2VuZXJhdGVkIHN0cnVjdHVyYWwgc2VyaWVzLmNzdiByZWNvcmRzCmlmIFsgISAtZCAiJEhPVF9ESVIiIF0gfHwgWyAteiAiJChscyAtQSAiJEhPVF9ESVIiIDI+L2Rldi9udWxsKSIgXTsgdGhlbgogICAgZWNobyAiW0lETEVdIE5WTWUgSG90IFRpZXIgYnVmZmVyIGFycmF5IGVtcHR5LiBObyBhY3RpdmUgZGF0YSByZWNvcmRzIHRvIHJlY29tcGlsZS4iCiAgICBleGl0IDAKZmkKCiMgMy4gQ2FsbCBpbnRlcm5hbCBQeXRob24gRGF0YSBNYW5hZ2VtZW50IFBsYW4gQ29tcGFjdG9yCmVjaG8gIltDT01QQUNUSU5HXSBSZWNvbXBpbGluZyByYXcgc2VyaWVzIHRleHQgbG9ncyB0byBjb2x1bW5hciBiaW5hcnkgUGFycXVldCBmb3JtYXQuLi4iCnB5dGhvbjMgLWMgIgpmcm9tIHBpcGVsaW5lX3VuaWZpZWQgaW1wb3J0IERhdGFNYW5hZ2VtZW50UGxhbkFyY2hpdmVFbmdpbmUKaW1wb3J0IG9zCmVuZ2luZSA9IERhdGFNYW5hZ2VtZW50UGxhbkFyY2hpdmVFbmdpbmUoaG90X2Rpcj0nJEhPVF9ESVInLCB3YXJtX2Rpcj0nJFdBUk1fRElSJykKZm9yIGZpbGUgaW4gb3MubGlzdGRpcignJEhPVF9ESVInKToKICAgIGlmIGZpbGUuZW5kc3dpdGgoJy5jc3YnKToKICAgICAgICBlbmdpbmUuYXJjaGl2ZV9jc3ZfdG9fcGFycXVldChmaWxlKQoiCgojIDQuIFN0cmVhbSBhbmQgRnJlZXplIENvbXBsaWFudCBQYXJxdWV0IFRhYmxlcyBpbnRvIEFXUyBHbGFjaWVyIENvbGQgQXJjaGl2ZQplY2hvICJbU1RPUklOR10gQ2FsbGluZyBDbG91ZEFyY2hpdmVTdG9yYWdlTWFuYWdlciBmb3Igc2VjdXJlIHJlbW90ZSB1cGxvYWQuLi4iCnB5dGhvbjMgLWMgIgpmcm9tIHBpcGVsaW5lX3VuaWZpZWQgaW1wb3J0IENsb3VkQXJjaGl2ZVN0b3JhZ2VNYW5hZ2VyCmltcG9ydCBvcwptYW5hZ2VyID0gQ2xvdWRBcmNoaXZlU3RvcmFnZU1hbmFnZXIoYnVja2V0X25hbWU9J3RyaWFsaXR5LXBpcGVsaW5lLXRlbGVtZXRyeS1hcmNoaXZlJykKZm9yIGZpbGUgaW4gb3MubGlzdGRpcignJFdBUk1fRElSJyk6CiAgICBpZiBmaWxlLmVuZHN3aXRoKCcucGFycXVldCcpOgogICAgICAgIGZ1bGxfcGF0aCA9IG9zLnBhdGguam9pbignJFdBUk1fRElSJywgZmlsZSkKICAgICAgICBzdWNjZXNzID0gbWFuYWdlci51cGxvYWRfcGFycXVldF90b19jb2xkX2FyY2hpdmUoZnVsbF9wYXRoKQogICAgICAgIGlmIHN1Y2Nlc3M6CiAgICAgICAgICAgICMgUHVyZ2UgdGhlIGxvY2FsIFdhcm0gZmlsZSBvbmx5IGFmdGVyIHZlcmlmaWVkIGNsb3VkIGNvbW1pdCBjb25maXJtYXRpb24KICAgICAgICAgICAgb3MucmVtb3ZlKGZ1bGxfcGF0aCkKIgoKZWNobyAiPT09IE5JR0hUTFkgQ09NUFJFU1NJT04gQU5EIENPTEQgQVJDSElWRSBVUExPQUQgQ09NUExFVEUgPT09Igo=
+#!/usr/bin/env bash
+# ================================================================
+# SYSTEM SPECIFICATION: COHERENCE COLLAPSE / UNIFIED TRIALITY PIPELINE
+# AUTOMATED NIGHTLY LIFECYCLE RECOVERY LAYER: cron_archive.sh
+# ================================================================
+# CRONTAB REGISTRATION PROTOCOL:
+# Open terminal, execute: crontab -e
+# Pre-pend the following explicit execution vector string:
+# 0 2 * * * /bin/bash /absolute/path/to/your/repository/cron_archive.sh >> /absolute/path/to/your/repository/cron_cron.log 2>&1
+# ================================================================
+#
+# NOTE (Lotus, 2026-10-05): the archive engines now live in this repo at
+# src/triality_pipeline/io/archive_engines.py (ported from the utp-v5 gap
+# pack; S3 client made lazy so the cron idles cleanly without credentials).
+# Imports below point at the real location; steps 3-4 run end to end.
+set -e
+
+# Establish local storage directory environments
+# [REPAIRED] line-break joins across the PDF page boundary; BASH_SOURCE[0] is
+# the standard idiom (bare ${BASH_SOURCE} is equivalent in bash).
+REPO_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+HOT_DIR="$REPO_DIR/hot_tier"
+WARM_DIR="$REPO_DIR/warm_dir"
+VENV_ACTIVATE="$REPO_DIR/.venv/bin/activate"
+
+echo "=== STARTING NIGHTLY DATA LIFECYCLE SWEEP: $(date -u) ==="
+
+# 1. Verify Virtual Environment Initialization
+if [ ! -f "$VENV_ACTIVATE" ]; then
+    echo "[CRITICAL FAULT] Hermetic environment missing. Execute deploy.sh first."
+    exit 1
+fi
+source "$VENV_ACTIVATE"
+
+# 2. Check for newly generated structural series.csv records
+if [ ! -d "$HOT_DIR" ] || [ -z "$(ls -A "$HOT_DIR" 2>/dev/null)" ]; then
+    echo "[IDLE] NVMe Hot Tier buffer array empty. No active data records to recompile."
+    exit 0
+fi
+
+# 3. Call internal Python Data Management Plan Compactor
+echo "[COMPACTING] Recompiling raw series text logs to columnar binary Parquet format..."
+python3 -c "
+from triality_pipeline.io.archive_engines import DataManagementPlanArchiveEngine
+import os
+engine = DataManagementPlanArchiveEngine(hot_dir='$HOT_DIR', warm_dir='$WARM_DIR')
+for file in os.listdir('$HOT_DIR'):
+    if file.endswith('.csv'):
+        engine.archive_csv_to_parquet(file)
+"
+
+# 4. Stream and Freeze Compliant Parquet Tables into AWS Glacier Cold Archive
+echo "[STORING] Calling CloudArchiveStorageManager for secure remote upload..."
+python3 -c "
+from triality_pipeline.io.archive_engines import CloudArchiveStorageManager
+import os
+manager = CloudArchiveStorageManager(bucket_name='triality-pipeline-telemetry-archive')
+for file in os.listdir('$WARM_DIR'):
+    if file.endswith('.parquet'):
+        full_path = os.path.join('$WARM_DIR', file)
+        success = manager.upload_parquet_to_cold_archive(full_path)
+        if success:
+            # Purge the local Warm file only after verified cloud commit confirmation
+            os.remove(full_path)
+"
+
+echo "=== NIGHTLY COMPRESSION AND COLD ARCHIVE UPLOAD COMPLETE ==="
