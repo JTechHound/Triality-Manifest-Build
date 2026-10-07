@@ -1,1 +1,57 @@
-IiIiVW5pZmllZCBUcmlhbGl0eSBQaXBlbGluZSAoVVRQKSBEaXN0cmlidXRpb24gQ29uZmlndXJhdGlvbiBNb2R1bGU6ClBhY2thZ2UgU2V0dXAgYW5kIEVudmlyb25tZW50IE9yY2hlc3RyYXRvcgpSZWZlcmVuY2U6IFVUUC1TUEVDLTIwMjYtVjYuMAoKVGhpcyBzY3JpcHQgaGFuZGxlcyB0aGUgc3RydWN0dXJhbCBwYWNrYWdpbmcgZGVwbG95bWVudCBmb3IgdGhlIFVUUCBjb2RlYmFzZS4KSXQgbWFwcyB0aGUgcGFja2FnZSBkaXJlY3RvcnkgdHJlZSBhbmQgZW5mb3JjZXMgc3RyaWN0IGRlcGVuZGVuY3kgdmFsaWRhdGlvbiB0bwpndWFyYW50ZWUgY2xlYW4gY29tcGlsZWQgcGVyZm9ybWFuY2UgbWV0cmljcyBhY3Jvc3MgaXNvbGF0ZWQgZGV2ZWxvcGVyCmVudmlyb25tZW50cy4KIiIiCmZyb20gc2V0dXB0b29scyBpbXBvcnQgc2V0dXAsIGZpbmRfcGFja2FnZXMKCnNldHVwKAogICAgbmFtZT0idHJpYWxpdHlfcGlwZWxpbmUiLAogICAgdmVyc2lvbj0iNi4wLjAiLAogICAgYXV0aG9yPSJBcnRodXIgTGVyb3kgSm9uZXMgKEpUZWNoSG91bmQpIiwKICAgIGF1dGhvcl9lbWFpbD0ibGpfNzdfNzdAZXhhbXBsZS5jb20iLCAgIyBMb2NhbCBvcGVuLXNvdXJjZSBHaXQgcHJvZmlsZSBsb2NhdG9yCiAgICBkZXNjcmlwdGlvbj0iQWR2YW5jZWQgTm9uLUVxdWlsaWJyaXVtIE9wZW4gUXVhbnR1bSBTeXN0ZW1zIEVuZ2luZWVyaW5nIEJsdWVwcmludCIsCiAgICBsb25nX2Rlc2NyaXB0aW9uPSgKICAgICAgICAiQSBzY2FsYWJsZSBvcGVuIHF1YW50dW0gc3lzdGVtIGFyY2hpdGVjdHVyZSBkZXNpZ25lZCB0byBtYWludGFpbiAiCiAgICAgICAgIm5vbi1sb2NhbCBtYWNyb3Njb3BpYyBxdWFudHVtIGNvaGVyZW5jZSBpbiB0aGUgcHJlc2VuY2Ugb2Ygc2V2ZXJlICIKICAgICAgICAibG9jYWxpemVkIGRlY29oZXJlbmNlIGJhdGhzLCBpbnRlZ3JhdGluZyBQb3NpdGl2ZSBHcmFzc21hbm5pYW4gLyAiCiAgICAgICAgIkFtcGxpdHVoZWRyb24gZ2VvbWV0cnksIGZhdWx0LXRvbGVyYW50IHN1cmZhY2UgY29kZSB0b3BvbG9naWVzLCBhbmQgIgogICAgICAgICJzaGlmdC1pbnZhcmlhbnQgcXVhbnR1bSBjb252b2x1dGlvbnMuIgogICAgKSwKICAgIGxvbmdfZGVzY3JpcHRpb25fY29udGVudF90eXBlPSJ0ZXh0L21hcmtkb3duIiwKICAgICMgU3RydWN0dXJhbCBwYWNrYWdlcyBpbnNpZGUgdGhlIHNyYy8gZm9sZGVyIGJhY2tib25lCiAgICBwYWNrYWdlcz1maW5kX3BhY2thZ2VzKHdoZXJlPSJzcmMiKSwKICAgIHBhY2thZ2VfZGlyPXsiIjogInNyYyJ9LAogICAgIyBFbmZvcmNlIHRlY2huaWNhbCBQeXRob24gZW52aXJvbm1lbnQgcGFyYW1ldGVycyBmb3IgemVyby1lcnJvciBudW1lcmljYWwgb3BlcmF0aW9ucwogICAgcHl0aG9uX3JlcXVpcmVzPSI+PTMuMTAiLAogICAgIyBDb3JlIHRoaXJkLXBhcnR5IGRlcGVuZGVuY2llcyBwaW5uZWQgdG8gdmVyaWZpZWQgc3RydWN0dXJhbCBjb21waWxlciBmcmFtZXdvcmtzCiAgICBpbnN0YWxsX3JlcXVpcmVzPVsKICAgICAgICAibnVtcHk+PTEuMjQuMCIsICAgICAgICAjIEhpZ2gtc3BlZWQgbXVsdGlkaW1lbnNpb25hbCBhcnJheSBhbmQgbWF0cml4IGNvbXB1dGF0aW9ucwogICAgICAgICJzY2lweT49MS4xMC4wIiwgICAgICAgICMgU3BlY2lhbGl6ZWQgc2lnbmFsIHByb2Nlc3NpbmcsIFJpY2hhcmRzb24gbWF0aCwgYW5kIGNvbnN0YW50cwogICAgICAgICJzY2lraXQtbGVhcm4+PTEuMi4wIiwgICMgQ29udmVudGlvbmFsIHN0YXRpc3RpY2FsIGNsYXNzaWZpY2F0aW9uIG1ldHJpY3MgYW5kIHZhbGlkYXRpb25zCiAgICBdLAogICAgIyBHcm91cGVkIG9wdGlvbmFsIGRlcGVuZGVuY2llcyBmb3Igc3BlY2lhbGl6ZWQgdGVzdGluZyBhbmQgYWR2YW5jZWQgdmlzdWFsaXphdGlvbgogICAgZXh0cmFzX3JlcXVpcmU9ewogICAgICAgICJ0ZXN0IjogWwogICAgICAgICAgICAicHl0ZXN0Pj03LjMuMCIsICAgICAgIyBBdXRvbWF0ZWQgdGVzdGluZywgZmFpbHVyZSB2YWxpZGF0aW9ucywgYW5kIGFzc2VydGlvbiBzdWl0ZXMKICAgICAgICAgICAgInB5dGVzdC1jb3Y+PTQuMC4wIiwgICMgVGVzdCBzdWl0ZSBjb3ZlcmFnZSByZXBvcnRpbmcgdG9vbHMKICAgICAgICBdLAogICAgICAgICJxdWFudHVtIjogWwogICAgICAgICAgICAicWlza2l0Pj0wLjQ0LjAiLCAgICAgIyBIYXJkd2FyZS1sZXZlbCBjaXJjdWl0IHZlcmlmaWNhdGlvbiBtb2RlbGluZyB3cmFwcGVycwogICAgICAgIF0sCiAgICB9LAogICAgIyBDbGFzc2lmaWVycyB0byBtYXAgZnJhbWV3b3JrIHByb2ZpbGUgbWV0cmljcyBjbGVhbmx5IG9uIG9wZW4tc291cmNlIHJlZ2lzdHJpZXMKICAgIGNsYXNzaWZpZXJzPVsKICAgICAgICAiRGV2ZWxvcG1lbnQgU3RhdHVzIDo6IDQgLSBCZXRhIiwKICAgICAgICAiSW50ZW5kZWQgQXVkaWVuY2UgOjogU2NpZW5jZS9SZXNlYXJjaCIsCiAgICAgICAgIlRvcGljIDo6IFNjaWVudGlmaWMvRW5naW5lZXJpbmcgOjogUGh5c2ljcyIsCiAgICAgICAgIlByb2dyYW1taW5nIExhbmd1YWdlIDo6IFB5dGhvbiA6OiAzLjEwIiwKICAgICAgICAiUHJvZ3JhbW1pbmcgTGFuZ3VhZ2UgOjogUHl0aG9uIDo6IDMuMTEiLAogICAgICAgICJMaWNlbnNlIDo6IE9TSSBBcHByb3ZlZCA6OiBNSVQgTGljZW5zZSIsCiAgICAgICAgIk9wZXJhdGluZyBTeXN0ZW0gOjogT1MgSW5kZXBlbmRlbnQiLAogICAgXSwKKQo=
+"""Unified Triality Pipeline (UTP) Distribution Configuration Module:
+Package Setup and Environment Orchestrator
+Reference: UTP-SPEC-2026-V6.0
+
+This script handles the structural packaging deployment for the UTP codebase.
+It maps the package directory tree and enforces strict dependency validation to
+guarantee clean compiled performance metrics across isolated developer
+environments.
+"""
+from setuptools import setup, find_packages
+
+setup(
+    name="triality_pipeline",
+    version="6.0.0",
+    author="Arthur Leroy Jones, Mikey, Abby Davis",
+    url="https://github.com/JTechHound/Triality-Manifest-Build",
+    description="Advanced Non-Equilibrium Open Quantum Systems Engineering Blueprint",
+    long_description=(
+        "A scalable open quantum system architecture designed to maintain "
+        "non-local macroscopic quantum coherence in the presence of severe "
+        "localized decoherence baths, integrating Positive Grassmannian / "
+        "Amplituhedron geometry, fault-tolerant surface code topologies, and "
+        "shift-invariant quantum convolutions."
+    ),
+    long_description_content_type="text/markdown",
+    # Structural packages inside the src/ folder backbone
+    packages=find_packages(where="src"),
+    package_dir={"": "src"},
+    # Enforce technical Python environment parameters for zero-error numerical operations
+    python_requires=">=3.10",
+    # Core third-party dependencies pinned to verified structural compiler frameworks
+    install_requires=[
+        "numpy>=1.24.0",        # High-speed multidimensional array and matrix computations
+        "scipy>=1.10.0",        # Specialized signal processing, Richardson math, and constants
+        "scikit-learn>=1.2.0",  # Conventional statistical classification metrics and validations
+    ],
+    # Grouped optional dependencies for specialized testing and advanced visualization
+    extras_require={
+        "test": [
+            "pytest>=7.3.0",      # Automated testing, failure validations, and assertion suites
+            "pytest-cov>=4.0.0",  # Test suite coverage reporting tools
+        ],
+        "quantum": [
+            "qiskit>=0.44.0",     # Hardware-level circuit verification modeling wrappers
+        ],
+    },
+    # Classifiers to map framework profile metrics cleanly on open-source registries
+    classifiers=[
+        "Development Status :: 4 - Beta",
+        "Intended Audience :: Science/Research",
+        "Topic :: Scientific/Engineering :: Physics",
+        "Programming Language :: Python :: 3.10",
+        "Programming Language :: Python :: 3.11",
+        "License :: OSI Approved :: Apache Software License",
+        "Operating System :: OS Independent",
+    ],
+)
