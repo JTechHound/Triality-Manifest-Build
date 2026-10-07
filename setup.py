@@ -13,6 +13,7 @@ setup(
     name="triality_pipeline",
     version="6.0.0",
     author="Arthur Leroy Jones, Mikey, Abby Davis",
+    author_email="Triality369framework@gmail.com",
     url="https://github.com/JTechHound/Triality-Manifest-Build",
     description="Advanced Non-Equilibrium Open Quantum Systems Engineering Blueprint",
     long_description=(
