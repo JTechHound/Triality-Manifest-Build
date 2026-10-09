@@ -5,7 +5,7 @@ Source: `Page_1_____Unified_Triality_Pipeline_Master_Reposi_261002_223529_28_l31
 ("Unified Triality Pipeline Master Repository Manifest", released October 2, 2026)
 
 # Authors - Arthur Leroy Jones
-# Author UCT Theory - Mikey-506
+# Author UCT Theory - Michael 
 # Independent Researcher - Abby Davis
 
 ---
